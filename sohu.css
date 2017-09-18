@@ -1,5 +1,5 @@
 body{
-	font-size:15px;
+	font-size:12px;
 	margin:0;
 	padding:0;
 }
@@ -24,6 +24,7 @@ body{
 	float:right;
 	text-decoration:none;
 	line-height:25px;
+	font-size:12px;
 }
 .topright:link,.topright:visited{color:#a7a7a7;}
 .topright:hover{color:white;}
@@ -38,7 +39,7 @@ body{
 .kuang{
 	width:400px;
 	height:35px;
-	font-size:15px;
+	font-size:12px;
 	background:#f9f9f9;
 	margin:28px 0 0 80px;
 	float:left;
@@ -54,14 +55,15 @@ body{
 }
 .pic3{
 	position:relative;
-	top:34px;
-	right:65px;
+	right:60px;
+	top:36px;
 }
 .one{
 	text-decoration: none;
-	font-size:13px;
+	font-size:12px;
 	float:left;
 	margin-top:9px;
+	margin-left: 10px;
 }
 .one:link,.one:visited{color:gray;}
 .one:hover{color:red;}
@@ -79,7 +81,7 @@ body{
 	margin-top:5px;
 }
 .daohang{
-	height:73px;
+	height:70px;
 	width:1000px;
 	margin-top:20px;
 	border-top:1px solid #ececec;
@@ -90,7 +92,7 @@ body{
 	width:120px;
 	height:50px;
 	float:left;
-	margin-top:10px;
+	margin-top:11px;
 }
 .ul1{
 	border-right:1px solid #ececec;
@@ -133,7 +135,7 @@ body{
 .daohang ul li{
 	list-style:none;
 	float:left;
-	margin:2.5px;
+	margin:5px;
 }
 .daohang ul li a{
 	text-decoration: none;
